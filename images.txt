@@ -2,6 +2,7 @@
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
-projectmonai/monai:0.8.1
+# projectmonai/monai:0.8.1
+tigrlab/fmriprep_ciftify:2.1.1
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
